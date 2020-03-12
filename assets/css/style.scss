@@ -1,4 +1,7 @@
 ---
 ---
 
-@import 'jekyll-theme-hacker';
+@import "{{ site.theme }}";
+
+a-title{text-decoration:none;}
+
