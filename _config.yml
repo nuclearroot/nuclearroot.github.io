@@ -1,3 +1,5 @@
-title: root@nuclearroot
-description: Welcome to my infosec blog!
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
