@@ -16,7 +16,7 @@ I held the CompTIA Network+, Security+ and CySA+ certifications prior to taking 
 
 I will go into some more detail about these resources after, but I used Virtual Hacking Labs, Hack the Box, TryHackMe, Wizard Labs, Ippsec Videos, Tib3rius' privelege escalation courses.
 
-# Virtual Hacking Labs
+### Virtual Hacking Labs - https://www.virtualhackinglabs.com/
 
-My first
+Virtual Hacking Labs was my first 
 
