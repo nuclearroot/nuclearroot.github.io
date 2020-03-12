@@ -14,11 +14,16 @@ I held the CompTIA Network+, Security+ and CySA+ certifications prior to taking 
 
 ## What did I use to study? 
 
-I will go into some more detail about these resources after, but I used Virtual Hacking Labs, Hack the Box, TryHackMe, Wizard Labs, Ippsec Videos, Tib3rius' privelege escalation courses.
+I will go into some more detail about these resources after, but I used Virtual Hacking Labs, Hack the Box, TryHackMe, Wizard Labs, PWK, Ippsec Videos and Tib3rius' privelege escalation courses.
 
 ### Virtual Hacking Labs
 
-<li><a href="https://www.virtualhackinglabs.com/">Link: Virtual Hacking Labs</a></li>
+<a href="https://www.virtualhackinglabs.com/">Virtual Hacking Labs</a>
 
-Virtual Hacking Labs was my first 
+Virtual Hacking Labs was my intial exposure into the world of hacking. I bought the 3 month package, which comes with the 3 months in the labs and a courseware PDF. The courseware was very easy for me to follow and understand, it really holds your hand to make sure you understand what it is trying to teach. The machines in the labs have 3 ranks, Beginner, Advanced and Advanced+, so you can start easy and work your way up. There are slight nudges for the machines in the control panel, except for the Advanced+ where you are left on your own to try figure them out. I think the privilege escalation part of the course and labs could use some more variety, however I still think this is a great resource and part of the reason I passed.
+
+### Hack The Box
+
+<a href="https://www.hackthebox.eu/">Hack The Box</a>
+
 
