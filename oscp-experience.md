@@ -128,7 +128,7 @@ At around 9AM the following day, 24 hours after my exam began I sent my report o
 
 After 1 horrible week of waiting, I finally recieved my results and I had passed! 
 
-<img src="/assets/images/oscppass.png"/>
+<img src="/assets/images/oscppasspng.png"/>
 
 
 
