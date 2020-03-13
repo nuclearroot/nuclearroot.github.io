@@ -54,8 +54,10 @@ I didn't end up submitting the lab report and exercises as there were just so ma
 
 ### Tib3rius' Privelege Escalation courses
 
-<li><a href="https://www.udemy.com/course/linux-privilege-escalation/?referralCode=0B0B7AA1E52B4B7F4C06">Linux Privilege Escalation</a></li>
-<li><a href="https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574">Windows Privilege Escalation</a></li>
+<ul>
+  <li><a href="https://www.udemy.com/course/linux-privilege-escalation/?referralCode=0B0B7AA1E52B4B7F4C06">Linux Privilege Escalation</a></li>
+  <li><a href="https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574">Windows Privilege Escalation</a></li>
+</ul>
 
 These courses are concise and explain the basics of privielege escalation for both Linux and Windows, it was great to have everything you need in one place instead of various different articles spread across the internet. Would definitely recommend these.
 
