@@ -26,4 +26,8 @@ Virtual Hacking Labs was my intial exposure into the world of hacking. I bought 
 
 <a href="https://www.hackthebox.eu/">Hack The Box</a>
 
+I'm sure the vast majority have already heard of Hack The Box. It's a great site with many different boxes, ranging from Easy to Insane. Some of these boxes can be very CTFy and most are probably out of scope for the OSCP exam. There is a list compiled by TJ Null, which goes through some OSCP like boxes, I would suggest 90% of these be completed before attempting the exam. Hack The Box is arguably the best when it comes to priv esc as there is lots of variety. To do the boxes on the list you will have to buy HTB VIP, which is around £10 a month.
+
+<img src="/assets/images/oscp_list.jpg"/>
+
 
