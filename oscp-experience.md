@@ -123,6 +123,7 @@ For the report I used the
 <a href="https://github.com/whoisflynn/OSCP-Exam-Report-Template">WhoIsFlynn template</a>, just to make my report look that bit more professional. 
 
 At around 9AM the following day, 24 hours after my exam began I sent my report off and the wait began. 
+<hr />
 
 <img src="/assets/images/1weeklater.jpg"/>
 
