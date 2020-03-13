@@ -36,18 +36,21 @@ I'm sure the vast majority have already heard of Hack The Box. It's a great site
 <img src="/assets/images/oscp_list.jpg"/>
 
 ### Ippsec Videos
+<hr />
 
 <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">IppSec's youtube channel</a>
 
 I think this is one of the most crucial things you can do, watch IppSec's videos in your free time, even boxes that would be considered too hard for OSCP. You could learn something from a harder box and apply it during your exam. You'll also be able see how he enumerates each port/service and add that to your methodology. I would suggest first attempting the boxes before watching the IppSec tutorials, especially for the more OSCP-esque boxes. Best of all it's free!
 
 ### TryHackMe
+<hr />
 
 <a href="https://tryhackme.com/">TryHackMe</a>
 
 TryHackMe has a lot of beginner friendly boxes, and a dedicated "OSCP Learning Path", I feel the boxes in this path really helped me learn new things. The site has a different style to most, where you have to answer certain questions in order to complete the box as well as submitting flags. I feel like this can be a bit annoying as some of the questions are a bit weird. All in all though, I feel like this is a great resource. The membership cost just under £8 a month. 
 
 ### PWK
+<hr />
 
 <a href="https://www.offensive-security.com/pwk-oscp/">PWK</a>
 
@@ -58,6 +61,7 @@ PWK is the course for OSCP from Offsensive Security. In the end I only completed
 I didn't end up submitting the lab report and exercises as there were just so many exercises. However, I would probably suggest doing so if you have the time, those 5 extra points could be crucial. 
 
 ### Tib3rius' Privelege Escalation courses
+<hr />
 
 <ul>
   <li><a href="https://www.udemy.com/course/linux-privilege-escalation/?referralCode=0B0B7AA1E52B4B7F4C06">Linux Privilege Escalation</a></li>
@@ -66,25 +70,27 @@ I didn't end up submitting the lab report and exercises as there were just so ma
 
 These courses are concise and explain the basics of privielege escalation for both Linux and Windows, it was great to have everything you need in one place instead of various different articles spread across the internet. Would definitely recommend these.
 
-
-
 ## Tools
+<hr />
 
 There are various different tools that can be used to assist you, I will highlight the top 3 for me, but leave it to you to research tools you feel like would help you. 
 
 ### AutoRecon
+<hr />
 
 <a href="https://github.com/Tib3rius/AutoRecon">AutoRecon</a>
 
 AutoRecon does all the basic recon for you automatically in the background and can save you a lot of time from doing it yourself.
 
 ### Linux Smart Enumeration
+<hr />
 
 <a href="https://github.com/diego-treitos/linux-smart-enumeration">LSE</a>
 
 LSE is a linux privilege escalation script which will help you find basic misconfigurations or things that could be suspicious and help you get root. 
 
 ### PEAS
+<hr />
 
 <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">PEAS</a>
 
