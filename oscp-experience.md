@@ -96,6 +96,41 @@ LSE is a linux privilege escalation script which will help you find basic miscon
 
 PEAS are a set of linux and windows privilege escalation scripts. Adding these to your arsenal will help make escalating your privileges that little bit easier
 
+## Exam day
+<hr />
+
+So the day to finally tackle the OSCP was here, I had booked it to start at 9AM, so it would just feel like a normal day. I connected to the proctoring software 15 minutes before the start time, which you recieve by email around 72 hours before the exam starts. I had an issue where my webcam wouldn't focus on my ID properly so I had to take a picture with my phone and display it on the screen for the proctor to see. After this, the proctoring ran smoothly in the backgroud and didn't cause me any more issues. 
+
+The information you need for your boxes including the IPs are in the control panel, which you recieve by email when your exam starts. I would suggest copying this information out into notepad just to make it slightly easier to read. The control panel allows you to upload hashes and reset machines as well. 
+
+I started AutoRecon running on the 4 other exam machines and started the buffer overflow. Within around an hour I had a working exploit and all my screenshots 
+
+I then worked on a 20 pointer which I completed in around an hour, so I had 45 points and was feeling confident. I then had my first break for around 15 minutes to grab some more water and stretch my legs. 
+
+I tackled the 10 pointer next, which took around 10-15 minutes to compromise, leaving me with 55 points. 
+
+I looked through my other scans before deciding to go have some lunch. 
+
+After my return I looked through the other 20 pointer, and figured out a way to get a shell after wondering why it wasn't working. Turns out I just don't know how to type properly. Always double check you're actually typing what your brain wants to type. I couldnt figure out the priv esc to this one within 30 minutes, so I moved on to last 25 point machine. Having a total of 65 points at around 4 hours in, I was feeling confident, but in the back of my mind hoping not doing the lab report wouldn't bite me in the arse. 
+
+I managed to get a shell on the 25 pointer, after looking through my scans and doing a bit of further enumeration. That gave me a passing score of 77.5 points. I had another break for around 30 minutes before coming back to try tackle the final 2 priv escs. 
+
+However, I couldn't figure them out within around 2 hours, so I started to create my report while thinking about what I could possibly do to escalate my privleges. I never did figure out what the priv esc was on either of them. 
+
+I had my report pretty much completed by around 6 PM, but I thought I would sleep on it and wake up around 8 AM the following day just to make sure my tired mind hadn't missed anything crucial. 
+
+For the report I used the 
+<a href="https://github.com/whoisflynn/OSCP-Exam-Report-Template">WhoIsFlynn template</a>, just to make my report look that bit more professional. 
+
+At around 9AM the following day, 24 hours after my exam began I sent my report off and the wait began. 
+
+<img src="/assets/images/1weeklater.jpg"/>
+
+After 1 horrible week of waiting, I finally recieved my results and I had passed! 
+
+<img src="/assets/images/oscppass.png"/>
+
+
 
 
 
