@@ -14,7 +14,7 @@ I held the CompTIA Network+, Security+ and CySA+ certifications prior to taking 
 
 ## What did I use to study? 
 
-I will go into some more detail about these resources after, but I used Virtual Hacking Labs, Hack the Box, TryHackMe, Wizard Labs, PWK, Ippsec Videos and Tib3rius' privelege escalation courses.
+I will go into some more detail about these resources after, but I used Virtual Hacking Labs, Hack the Box, TryHackMe, PWK, Ippsec Videos and Tib3rius' privelege escalation courses.
 
 ### Virtual Hacking Labs
 
@@ -35,5 +35,52 @@ I'm sure the vast majority have already heard of Hack The Box. It's a great site
 <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">IppSec's youtube channel</a>
 
 I think this is one of the most crucial things you can do, watch IppSec's videos in your free time, even boxes that would be considered too hard for OSCP. You could learn something from a harder box and apply it during your exam. You'll also be able see how he enumerates each port/service and add that to your methodology. I would suggest first attempting the boxes before watching the IppSec tutorials, especially for the more OSCP-esque boxes. Best of all it's free!
+
+### TryHackMe
+
+<a href="https://tryhackme.com/">TryHackMe</a>
+
+TryHackMe has a lot of beginner friendly boxes, and a dedicated "OSCP Learning Path", I feel the boxes in this path really helped me learn new things. The site has a different style to most, where you have to answer certain questions in order to complete the box as well as submitting flags. I feel like this can be a bit annoying as some of the questions are a bit weird. All in all though, I feel like this is a great resource. The membership cost just under £8 a month. 
+
+### PWK
+
+<a href="https://www.offensive-security.com/pwk-oscp/">PWK</a>
+
+NOTE: I took the old version of the PWK, they updated the course just after I bought it, so I will be talking about the old version and not the new. 
+
+PWK is the course for OSCP from Offsensive Security. In the end I only completed around 20 boxes, 2 of which are part of the "Big Four". Some of the machines in the course were very old so had multiple ways to get shells, which made it hard to differentiate to what the intended route was. However, if that method gets you a shell then I guess it's good enough. I tried to avoid metasploit, but I did end up using it on a few boxes. 
+
+I didn't end up submitting the lab report and exercises as there were just so many exercises. However, I would probably suggest doing so if you have the time, those 5 extra points could be crucial. 
+
+### Tib3rius' Privelege Escalation courses
+
+<li><a href="https://www.udemy.com/course/linux-privilege-escalation/?referralCode=0B0B7AA1E52B4B7F4C06">Linux Privilege Escalation</a></li>
+<li><a href="https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574">Windows Privilege Escalation</a></li>
+
+These courses are concise and explain the basics of privielege escalation for both Linux and Windows, it was great to have everything you need in one place instead of various different articles spread across the internet. Would definitely recommend these.
+
+# Tools
+
+There are various different tools that can be used to assist you, I will highlight the top 3 for me, but leave it to you to research tools you feel like would help you. 
+
+### AutoRecon
+
+<a href="https://github.com/Tib3rius/AutoRecon">AutoRecon</a>
+
+AutoRecon does all the basic recon for you automatically in the background and can save you a lot of time from doing it yourself.
+
+### Linux Smart Enumeration
+
+<a href="https://github.com/diego-treitos/linux-smart-enumeration">LSE</a>
+
+LSE is a linux privilege escalation script which will help you find basic misconfigurations or things that could be suspicious and help you get root. 
+
+### PEAS
+
+<a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">PEAS</a>
+
+PEAS are a set of linux and windows privilege escalation scripts. Adding these to your arsenal will help make escalating your privileges that little bit easier
+
+
 
 
