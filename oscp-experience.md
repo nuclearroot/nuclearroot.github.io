@@ -30,4 +30,10 @@ I'm sure the vast majority have already heard of Hack The Box. It's a great site
 
 <img src="/assets/images/oscp_list.jpg"/>
 
+### Ippsec Videos
+
+<a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">IppSec's youtube channel</a>
+
+I think this is one of the most crucial things you can do, watch IppSec's videos in your free time, even boxes that would be considered too hard for OSCP. You could learn something from a harder box and apply it during your exam. You'll also be able see how he enumerates each port/service and add that to your methodology. I would suggest first attempting the boxes before watching the IppSec tutorials, especially for the more OSCP-esque boxes. Best of all it's free!
+
 
